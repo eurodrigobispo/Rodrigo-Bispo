@@ -1,0 +1,5 @@
+{
+  "name": "Innapse.Ai",
+  "description": "An AI-powered application for generating and editing images with advanced controls and creative styles, using Gemini API.",
+  "requestFramePermissions": []
+}
